@@ -21,7 +21,7 @@ College Pays is a dedicated job hunting platform tailored specifically for colle
 ## 🌟 What Sets College Pays Apart
 *Discover what makes us different from the rest of the platforms.*
 
-### >Tailored for College Students
+### Tailored for College Students
 - **Focused Job Listings:** All job postings are specifically geared towards college students, ensuring that opportunities are relevant and suitable for those with little to no work experience.
 - **Flexible Hours:** Jobs are curated to accommodate academic schedules, providing part-time and flexible hour options.
 
