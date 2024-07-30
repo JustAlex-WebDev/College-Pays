@@ -1,11 +1,11 @@
 # ![College Pays Icon](https://example.com/college_pays_icon.png) College Pays
 
-## ![Job Hunting Ends Here Icon](https://example.com/job_hunting_icon.png) Your job hunting ends <span style="color: red;">Here</span>
+## ![Job Hunting Ends Here Icon](https://example.com/job_hunting_icon.png) Your job hunting ends here
 College Pays is a dedicated job hunting platform tailored specifically for college students with little to no work experience.
 
 ![Job Hunt Image](https://example.com/job_hunt_image.png)
 
-## Unique Value Propositions
+## Unique value propositions
 Explore some of the benefits we provide.
 
 ### ![Employer Benefits Icon](https://example.com/employer_benefits_icon.png) Benefits for Employers
@@ -20,7 +20,7 @@ Explore some of the benefits we provide.
 
 ![Job Hunters Image](https://example.com/job_hunters_image.png)
 
-## ![What Sets Us Apart Icon](https://example.com/what_sets_us_apart_icon.png) What Sets College Pays Apart
+## ![What Sets Us Apart Icon](https://example.com/what_sets_us_apart_icon.png) What sets college pays apart
 Discover what makes us different from the rest of the platforms.
 
 ### ![Tailored for Students Icon](https://example.com/tailored_for_students_icon.png) Tailored for College Students
