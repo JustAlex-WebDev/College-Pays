@@ -1,4 +1,4 @@
-# 🎓 College Pays
+# College Pays
 
 ## Your job hunting ends here
 College Pays is a dedicated job hunting platform tailored specifically for college students with little to no work experience.
@@ -18,7 +18,7 @@ College Pays is a dedicated job hunting platform tailored specifically for colle
 
 ---
 
-## 🌟 What Sets College Pays Apart
+## What Sets College Pays Apart
 *Discover what makes us different from the rest of the platforms.*
 
 ### Tailored for College Students
