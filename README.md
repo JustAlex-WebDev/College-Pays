@@ -1,6 +1,6 @@
 # ![College Pays Icon](https://example.com/college_pays_icon.png) College Pays
 
-## ![Job Hunting Ends Here Icon](https://example.com/job_hunting_icon.png) Your Job Hunting Ends Here
+## ![Job Hunting Ends Here Icon](https://example.com/job_hunting_icon.png) Your job hunting ends <span style="color: red;">Here</span>
 College Pays is a dedicated job hunting platform tailored specifically for college students with little to no work experience.
 
 ![Job Hunt Image](https://example.com/job_hunt_image.png)
